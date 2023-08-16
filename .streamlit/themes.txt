@@ -1,0 +1,65 @@
+* **Corporate Blue**
+
+```
+[theme]
+primaryColor = '#007AFF'
+backgroundColor = '#FFFFFF'
+secondaryBackgroundColor = '#F4F6FF'
+textColor = '#202224'
+font = 'sans serif'
+```
+
+This theme is a classic blue color theme that is perfect for corporate applications. The primary color is a deep blue, which is used for buttons, icons, and other important elements. The background color is white, which provides a clean and professional look. The secondary background color is a light blue, which is used for sidebars and other containers. The text color is a dark gray, which is easy to read on both light and dark backgrounds.
+
+* **Modern Green**
+
+```
+[theme]
+primaryColor = '#2ECC71'
+backgroundColor = '#FFFFFF'
+secondaryBackgroundColor = '#E8F5E9'
+textColor = '#424242'
+font = 'sans serif'
+```
+
+This theme is a modern green color theme that is perfect for creative applications. The primary color is a bright green, which is used for buttons, icons, and other important elements. The background color is white, which provides a clean and modern look. The secondary background color is a light gray, which is used for sidebars and other containers. The text color is a dark gray, which is easy to read on both light and dark backgrounds.
+
+* **Subtle Pink**
+
+```
+[theme]
+primaryColor = '#F06292'
+backgroundColor = '#FFFFFF'
+secondaryBackgroundColor = '#F9E7EB'
+textColor = '#424242'
+font = 'sans serif'
+```
+
+This theme is a subtle pink color theme that is perfect for feminine applications. The primary color is a light pink, which is used for buttons, icons, and other important elements. The background color is white, which provides a clean and feminine look. The secondary background color is a light gray, which is used for sidebars and other containers. The text color is a dark gray, which is easy to read on both light and dark backgrounds.
+
+* **Neon Orange**
+
+```
+[theme]
+primaryColor = '#FF8C00'
+backgroundColor = '#FFFFFF'
+secondaryBackgroundColor = '#FFF8DC'
+textColor = '#212121'
+font = 'sans serif'
+```
+
+This theme is a neon orange color theme that is perfect for playful applications. The primary color is a bright orange, which is used for buttons, icons, and other important elements. The background color is white, which provides a clean and playful look. The secondary background color is a light gray, which is used for sidebars and other containers. The text color is a dark gray, which is easy to read on both light and dark backgrounds.
+
+* **Classic Black**
+
+```
+[theme]
+primaryColor = '#000000'
+backgroundColor = '#212121'
+secondaryBackgroundColor = '#333333'
+textColor = '#FFFFFF'
+font = 'sans serif'
+```
+
+This theme is a classic black color theme that is perfect for minimalist applications. The primary color is black, which is used for buttons, icons, and other important elements. The background color is dark gray, which provides a clean and minimalist look. The secondary background color is a darker gray, which is used for sidebars and other containers. The text color is white, which is easy to read on both light and dark backgrounds.
+

@@ -1,0 +1,26 @@
+﻿Trigger Phrase,Nudges,Nudge_Category
+User Signs Up,Welcome! Start by exploring popular assets in our repository.,Onboarding
+First Login,Did you know you can rate assets? Try it out on an asset you've used recently.,Onboarding
+Incomplete Profile,Complete your profile to get personalized asset recommendations.,Onboarding
+First Portal Visit,Have a look at our top-rated assets.,Onboarding
+First Asset Search,Find what you need faster by using our advanced search features.,Onboarding
+Asset Rated,Users who liked the assets you rated also liked these assets...,Personalization
+Asset Interacted,"Based on your recent activity, you might find these assets interesting...",Personalization
+Topic Interest Shown,We noticed you're interested in cloud computing. Check out these related assets.,Personalization
+Recent User Activity,Here are some new assets that match your interests.,Personalization
+High Rating Given,Looking for more? Check out these assets similar to the ones you've rated highly.,Personalization
+Long User Inactivity,It's been a while since your last visit. Check out what's new in our repository.,Engagement
+New Assets Added,Don't miss out on the latest assets. Log in today.,Engagement
+"Used, Not Rated",Help the community by rating the assets you've used.,Engagement
+Near Top Contributor,You're just one asset away from becoming a top contributor this month.,Engagement
+"Used, No Feedback",Your opinion matters. Share your feedback on the assets you've used.,Engagement
+Made A Search,Improve your search results by using keywords related to what you're looking for.,Semantic Search
+Poor Search Results,Can't find what you're looking for? Try using a different keyword.,Semantic Search
+Frequent Searches,Get more relevant results by using our advanced search options.,Semantic Search
+Struggling With Search,Not sure what to search for? Browse our categories to explore assets.,Semantic Search
+Narrow Search Results,Using too many keywords can limit your search results. Try removing a few.,Semantic Search
+Used An Asset,Your feedback helps us improve. Please rate the assets you've used.,Feedback
+Used New Asset,Let us know what you think about our latest assets.,Feedback
+Negative Feedback Given,Have a suggestion for improving an asset? We'd love to hear it.,Feedback
+Frequent Portal Usage,Help us understand your needs better by providing feedback on your experience.,Feedback
+"New Asset, No Feedback",Join the conversation. Share your thoug,Feedback

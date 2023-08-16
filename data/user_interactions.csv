@@ -1,0 +1,302 @@
+userId,num_assets_rated,avg_rating,min_rating,max_rating,highest_rated_assetId,highest_rated_assetName,lowest_rated_assetId,lowest_rated_assetName,signup_date,last_activity_date,User_Type
+3000,156,2.9993589743589744,1.0,5.0,220,Cloud-based customer relationship management,150,Azure SQL Database for Data Management,2022-03-12,2023-08-04,Red
+3001,247,3.080971659919028,1.1,5.0,171,Cloud Automation: Streamlining Your IT Operations,118,Azure Batch for High-performance Computing,2022-11-10,2023-03-28,Red
+3002,157,3.199363057324841,1.0,5.0,197,Cloud Computing in Agriculture: Farming in the Cloud,133,Azure IoT Hub for Internet of Things Applications,2022-05-30,2022-07-16,Red
+3003,162,2.9623456790123455,1.0,5.0,206,Cloud Migration Strategies for Your Enterprise,61,Hands-On Kubernetes on Azure,2022-03-06,2022-12-02,Red
+3004,172,2.969186046511628,1.0,5.0,186,Cloud Computing for Education: Enabling Digital Learning,280,Introduction to Microsoft Azure,2021-09-10,2022-03-24,Red
+3005,174,2.7752873563218388,1.0,5.0,294,Serverless Computing: What is it and How Does it Work?,276,Introduction to Google Cloud AI Platform,2022-08-01,2022-10-08,Red
+3006,217,2.976036866359447,1.0,5.0,115,Azure API Management,86,Azure Machine Learning Studio Cookbook,2021-09-30,2021-11-13,Red
+3007,215,3.0790697674418603,1.0,5.0,155,Big Data Processing with Google Cloud Platform,213,Cloud Security Best Practices for Your Business,2023-07-25,2023-11-17,Red
+3008,212,2.905188679245283,1.0,5.0,75,Deploying and Managing Applications on Azure,55,Securing Cloud Native Applications,2023-11-07,2023-11-08,Red
+3009,253,3.034782608695652,1.0,5.0,68,Mastering Azure Analytics,89,AWS Certified Solutions Architect Professional Exam Prep,2021-07-13,2023-06-07,Red
+3010,178,2.9089887640449437,1.0,5.0,227,Cloud-based machine learning for predictive analytics,173,Cloud Compliance: Navigating Regulatory Requirements in the Cloud,2023-03-01,2023-04-15,Red
+3011,260,2.9834615384615386,1.0,5.0,115,Azure API Management,75,Deploying and Managing Applications on Azure,2022-02-11,2022-04-06,Red
+3012,260,3.1149999999999998,1.0,5.0,162,Building data pipelines with AWS Glue and Amazon Athena,38,Building Microservices with ASP.NET Core and Kubernetes,2022-04-09,2022-06-04,Red
+3013,255,3.062745098039216,1.0,5.0,234,Creating Virtual Machines in Azure,113,Azure Active Directory,2023-09-13,2023-11-25,Red
+3014,133,2.97218045112782,1.1,4.9,170,Cloud Automation: Streamlining Your Business Processes,239,Deploying microservices with AWS Fargate,2020-04-13,2021-03-12,Red
+3015,256,2.916015625,1.0,5.0,158,Building a resilient cloud architecture,154,Best practices for securing your cloud environment,2020-05-07,2021-11-18,Red
+3016,161,2.906832298136646,1.0,5.0,65,Azure Data Factory Cookbook,105,An Overview of Google Cloud Platform's Security,2020-01-30,2022-04-06,Red
+3017,278,3.1093525179856116,1.0,5.0,204,Cloud Governance: Managing Risks and Compliance in the Cloud,31,Migrating to the Cloud: A Guide for Business Leaders,2023-04-30,2023-11-26,Red
+3018,254,2.924803149606299,1.0,5.0,126,Azure DevOps for CI/CD Pipeline,102,An overview of AWS SageMaker: Machine learning made easy,2023-02-10,2023-10-03,Red
+3019,166,2.880722891566265,1.0,5.0,94,Microsoft Azure Cosmos DB Revealed,162,Building data pipelines with AWS Glue and Amazon Athena,2023-06-24,2023-08-14,Red
+3020,213,2.8985915492957743,1.0,5.0,221,Cloud-based data analytics for business intelligence,279,Introduction to Google Cloud Storage,2023-11-29,2023-12-03,Red
+3021,207,2.9917874396135264,1.0,5.0,73,Google Cloud Platform Cookbook,221,Cloud-based data analytics for business intelligence,2023-03-12,2023-03-29,Red
+3022,209,2.942105263157895,1.0,5.0,239,Deploying microservices with AWS Fargate,246,Getting started with AWS: A beginner's guide,2021-11-04,2022-06-29,Red
+3023,164,3.0030487804878048,1.0,5.0,118,Azure Batch for High-performance Computing,59,DevOps with Azure,2023-02-13,2023-05-08,Red
+3024,288,3.01875,1.0,5.0,100,Azure for Architects,39,Cloud-Native Python,2020-06-21,2022-01-29,Red
+3025,209,2.9205741626794257,1.0,5.0,17,Cloud Native Java,179,Cloud Computing and Healthcare: Opportunities and Challenges,2022-07-23,2023-07-17,Red
+3026,260,3.0415384615384613,1.0,5.0,253,Google Cloud Platform for Gaming,131,Azure Front Door for Web Applications,2020-07-28,2022-12-15,Red
+3027,234,2.769230769230769,1.0,5.0,11,Cloud Foundry: The Definitive Guide,120,Azure Container Instances for Container Deployment,2023-10-11,2023-11-03,Red
+3028,243,2.9465020576131686,1.0,5.0,49,Cloud-Native Python,77,GCP for Business Leaders,2022-01-31,2022-10-24,Red
+3029,158,2.84746835443038,1.0,5.0,223,Cloud-based disaster recovery strategies for small businesses,214,Cloud security risks and how to mitigate them,2021-08-28,2022-01-30,Red
+3030,178,2.9955056179775283,1.0,5.0,203,Cloud Governance: Best Practices for Managing Your Cloud Environment,94,Microsoft Azure Cosmos DB Revealed,2021-01-21,2023-05-17,Red
+3031,140,3.1085714285714285,1.0,4.9,148,Azure Virtual Desktop,252,Google Cloud Platform for E-commerce,2023-02-04,2023-02-23,Red
+3032,192,2.9536458333333333,1.0,5.0,258,How to Deploy Applications on Google Cloud Platform,87,Deploying Applications with Docker and AWS,2021-10-27,2023-05-04,Red
+3033,265,3.054339622641509,1.0,5.0,9,The Essential Guide to Cloud Computing,99,GCP for Data Engineers,2022-04-09,2023-08-13,Red
+3034,283,2.9840989399293285,1.0,5.0,55,Securing Cloud Native Applications,153,Best Practices for Data Management on Google Cloud Platform,2020-01-28,2023-02-15,Red
+3035,298,2.964765100671141,1.0,5.0,24,Cloud-Native Infrastructure,128,Azure Event Grid for Event-driven Architecture,2022-06-20,2022-11-12,Red
+3036,216,2.9375,1.0,5.0,143,Azure Stack,99,GCP for Data Engineers,2022-06-12,2023-01-10,Red
+3037,213,2.983098591549296,1.0,5.0,256,Harnessing the power of cloud-native databases,148,Azure Virtual Desktop,2022-06-19,2023-05-14,Red
+3038,212,2.858018867924528,1.0,5.0,91,Cloud Computing and Virtualization,183,Cloud Computing and the Internet of Things (IoT),2023-10-09,2023-11-01,Red
+3039,235,2.923829787234043,1.0,5.0,251,Google Cloud Platform for DevOps,89,AWS Certified Solutions Architect Professional Exam Prep,2022-09-22,2023-03-13,Red
+3040,231,3.0913419913419915,1.1,5.0,171,Cloud Automation: Streamlining Your IT Operations,129,Azure ExpressRoute for Dedicated Network Connection,2021-06-08,2021-12-10,Red
+3041,203,2.9655172413793105,1.0,5.0,265,Implementing Disaster Recovery on Azure,172,Cloud Backup and Disaster Recovery: Planning for the Unexpected,2021-09-30,2022-10-13,Red
+3042,179,3.1206703910614526,1.1,5.0,21,Cloud-Native Machine Learning,13,Cloud Application Development: A Practical Guide,2022-10-15,2022-11-04,Red
+3043,224,3.0379464285714284,1.0,5.0,48,Building Microservices with ASP.NET Core and Kubernetes,202,Cloud Cost Optimization: Best Practices for Saving Money,2020-03-28,2023-03-31,Red
+3044,232,2.851293103448276,1.0,5.0,223,Cloud-based disaster recovery strategies for small businesses,285,Monitoring and Diagnostics in Azure App Service,2022-08-31,2022-10-07,Red
+3045,260,3.141923076923077,1.0,5.0,142,Azure SQL Database,146,Azure Synapse Analytics,2022-09-06,2023-05-13,Red
+3046,198,2.964141414141414,1.0,5.0,261,Implementing Machine Learning with Google Cloud Platform,257,How to choose the right cloud provider for your business,2020-11-03,2021-10-22,Red
+3047,247,3.0242914979757085,1.0,5.0,41,Migrating to the Cloud: A Guide for Business Leaders,10,Cloud Computing: The Future of IT,2020-07-07,2022-07-11,Red
+3048,194,3.075257731958763,1.1,5.0,30,Learning Cloud-Native Java,74,AWS Certified SysOps Administrator Official Study Guide,2021-04-05,2023-11-20,Red
+3049,145,3.050344827586207,1.0,5.0,13,Cloud Application Development: A Practical Guide,294,Serverless Computing: What is it and How Does it Work?,2021-06-15,2023-02-04,Red
+3050,180,3.0783333333333336,1.0,5.0,26,Cloud-Native Transformation: Practical Patterns for Innovation,274,Introduction to Azure Resource Manager,2022-04-12,2022-05-04,Red
+3051,361,3.0462603878116346,1.0,5.0,190,Cloud Computing for Legal Firms: Streamlining Legal Processes,165,Building scalable cloud applications with microservices,2021-10-02,2022-09-20,Red
+3052,253,3.040711462450593,1.0,5.0,275,Introduction to Azure Stream Analytics,245,Getting started with AWS Glue: ETL made easy,2023-12-14,2023-12-22,Blue
+3053,197,2.9680203045685283,1.0,5.0,301,The impact of cloud computing on data center design,73,Google Cloud Platform Cookbook,2020-05-28,2022-05-01,Red
+3054,181,2.9917127071823204,1.0,5.0,193,Cloud Computing for Nonprofits: Making a Difference in the Cloud,44,Cloud-Native Continuous Integration and Delivery,2020-10-31,2022-12-27,Red
+3055,196,2.9270408163265307,1.0,5.0,267,How to Use Google Cloud Vision API for Image Analysis,88,Mastering Google Cloud Platform,2020-08-23,2021-07-29,Red
+3056,184,3.0190217391304346,1.0,5.0,178,Cloud Computing and E-Commerce: Opportunities and Benefits,254,Google Cloud Platform for Healthcare,2022-08-11,2022-10-15,Red
+3057,173,2.8982658959537573,1.0,5.0,278,Introduction to Google Cloud Pub/Sub,111,AWS IoT: Building internet of things applications,2021-01-04,2022-03-08,Red
+3058,266,3.1657894736842107,1.0,5.0,111,AWS IoT: Building internet of things applications,281,Leveraging cloud technology for agile software development,2021-11-11,2023-11-27,Red
+3059,183,2.9595628415300546,1.0,5.0,294,Serverless Computing: What is it and How Does it Work?,123,Azure Data Factory for Data Integration and ETL,2020-12-22,2021-07-17,Red
+3060,205,3.0624390243902435,1.0,5.0,70,Practical Google Cloud Platform,114,Azure Active Directory for Identity and Access Management,2020-08-20,2023-09-04,Red
+3061,265,3.1052830188679246,1.0,5.0,16,Cloud Computing: From Beginning to End,61,Hands-On Kubernetes on Azure,2020-06-10,2022-05-17,Red
+3062,155,3.074193548387097,1.0,5.0,240,Deploying Windows Virtual Desktop on Azure,236,Deep dive into Amazon S3: Simple Storage Service,2022-08-16,2023-04-02,Red
+3063,201,2.9751243781094527,1.0,5.0,133,Azure IoT Hub for Internet of Things Applications,262,Implementing Azure Networking Solutions,2020-07-20,2023-08-04,Red
+3064,192,3.0500000000000003,1.0,5.0,59,DevOps with Azure,111,AWS IoT: Building internet of things applications,2020-10-14,2022-04-04,Red
+3065,276,2.9927536231884058,1.0,5.0,91,Cloud Computing and Virtualization,15,Building Secure and Reliable Cloud Applications,2021-06-22,2023-04-20,Red
+3066,216,2.9449074074074075,1.0,5.0,294,Serverless Computing: What is it and How Does it Work?,291,Securing your AWS infrastructure with IAM,2023-04-13,2023-07-26,Red
+3067,196,2.892857142857143,1.0,5.0,150,Azure SQL Database for Data Management,170,Cloud Automation: Streamlining Your Business Processes,2020-05-21,2023-08-26,Red
+3068,204,2.985294117647059,1.0,5.0,144,Azure Storage,21,Cloud-Native Machine Learning,2023-05-08,2023-10-18,Red
+3069,172,3.104651162790698,1.0,5.0,81,Google Cloud Platform for Architects,40,Cloud-Based Virtualization: A Comprehensive Guide,2020-05-20,2022-11-29,Red
+3070,282,3.075177304964539,1.0,5.0,113,Azure Active Directory,243,Exploring Cloud Computing Services: A Comprehensive Guide,2023-11-26,2023-12-07,Blue
+3071,263,3.013688212927757,1.0,5.0,254,Google Cloud Platform for Healthcare,282,Migrating to AWS: Strategies and best practices,2021-11-15,2023-06-25,Red
+3072,223,3.0623318385650222,1.0,5.0,67,Building and Managing Serverless Applications on AWS,170,Cloud Automation: Streamlining Your Business Processes,2023-11-27,2023-12-18,Blue
+3073,291,2.8649484536082475,1.0,5.0,47,Cloud Computing for Business,95,Google Cloud Platform for Machine Learning,2022-06-02,2022-10-18,Red
+3074,252,2.9579365079365076,1.0,5.0,64,AWS Certified Developer Associate Exam Prep,33,Cloud Computing for Enterprises: A Practical Guide,2022-12-15,2023-02-14,Red
+3075,169,3.0544378698224857,1.0,5.0,281,Leveraging cloud technology for agile software development,148,Azure Virtual Desktop,2020-02-27,2023-03-20,Red
+3076,175,2.838857142857143,1.0,5.0,177,Cloud Computing and Data Privacy: What You Need to Know,181,Cloud Computing and the Future of Artificial Intelligence,2021-02-16,2023-11-18,Red
+3077,146,3.05958904109589,1.0,4.9,74,AWS Certified SysOps Administrator Official Study Guide,297,The future of cloud computing: Emerging trends and technologies,2020-06-24,2022-02-02,Red
+3078,227,2.9555066079295154,1.0,5.0,134,Azure IoT Hub for IoT Solutions,177,Cloud Computing and Data Privacy: What You Need to Know,2021-03-08,2022-11-05,Red
+3079,228,2.9096491228070174,1.0,5.0,55,Securing Cloud Native Applications,211,Cloud Networking: Designing a Secure and Efficient Infrastructure,2020-06-22,2023-06-30,Red
+3080,262,3.055725190839695,1.0,5.0,211,Cloud Networking: Designing a Secure and Efficient Infrastructure,175,Cloud Computing and Big Data: A Perfect Match?,2021-04-09,2022-07-08,Red
+3081,188,3.0680851063829784,1.0,5.0,292,Serverless Computing: Building Applications Without Infrastructure,231,Cloud-Native DevOps: Accelerating Your Application Development,2021-08-27,2023-11-19,Red
+3082,208,3.0,1.0,5.0,40,Cloud-Based Virtualization: A Comprehensive Guide,30,Learning Cloud-Native Java,2020-04-03,2022-05-30,Red
+3083,250,2.9864,1.0,5.0,147,Azure Traffic Manager,8,Cloud Computing for Data Science,2022-10-08,2023-10-11,Red
+3084,153,2.9333333333333336,1.1,5.0,124,Azure Data Lake Storage for Big Data Analytics,215,Cloud Storage 101: What It Is and How It Works,2022-04-07,2023-11-03,Red
+3085,196,2.9918367346938775,1.0,5.0,186,Cloud Computing for Education: Enabling Digital Learning,280,Introduction to Microsoft Azure,2021-01-22,2023-06-16,Red
+3086,244,2.970081967213115,1.0,5.0,297,The future of cloud computing: Emerging trends and technologies,183,Cloud Computing and the Internet of Things (IoT),2022-02-02,2022-05-24,Red
+3087,221,2.928054298642534,1.0,5.0,204,Cloud Governance: Managing Risks and Compliance in the Cloud,224,Cloud-Based Disaster Recovery: Ensuring Business Continuity,2020-05-17,2022-08-27,Red
+3088,249,3.0554216867469877,1.0,5.0,207,Cloud Migration Strategies: Planning and Execution,207,Cloud Migration Strategies: Planning and Execution,2022-04-20,2022-12-23,Red
+3089,281,3.0476868327402133,1.0,5.0,55,Securing Cloud Native Applications,71,Microsoft Azure Infrastructure Services for Architects,2023-09-18,2023-09-25,Red
+3090,119,2.9672268907563026,1.0,5.0,31,Migrating to the Cloud: A Guide for Business Leaders,109,AWS CodeCommit: A managed source control service,2021-04-10,2022-06-05,Red
+3091,190,3.0210526315789474,1.0,5.0,62,GCP for Beginners,10,Cloud Computing: The Future of IT,2022-09-01,2023-01-05,Red
+3092,226,2.884513274336283,1.0,5.0,4,Cloud Security: A Comprehensive Guide,283,Migrating to Azure: Strategies and Tools,2020-07-11,2023-06-22,Red
+3093,239,3.004602510460251,1.0,5.0,268,Hybrid Cloud: Benefits and Challenges,101,An Introduction to Google Cloud SQL,2022-11-11,2022-11-25,Red
+3094,182,3.0346153846153845,1.0,5.0,111,AWS IoT: Building internet of things applications,134,Azure IoT Hub for IoT Solutions,2021-02-26,2023-11-18,Red
+3095,234,2.9431623931623934,1.1,4.9,119,Azure Cognitive Services for AI Applications,3,Cloud Native Applications,2020-09-24,2021-11-22,Red
+3096,177,3.0728813559322035,1.0,5.0,33,Cloud Computing for Enterprises: A Practical Guide,108,AWS CloudWatch: Monitoring and logging for your applications,2022-05-06,2022-12-07,Red
+3097,155,2.999354838709677,1.0,5.0,238,Deploying Highly Available Applications with Azure Kubernetes Service,26,Cloud-Native Transformation: Practical Patterns for Innovation,2020-01-30,2020-02-22,Red
+3098,197,3.0497461928934007,1.0,5.0,45,Designing Cloud-Native Applications,109,AWS CodeCommit: A managed source control service,2023-04-25,2023-06-10,Red
+3099,165,3.033939393939394,1.0,5.0,183,Cloud Computing and the Internet of Things (IoT),100,Azure for Architects,2020-01-07,2021-08-12,Red
+3100,229,3.1270742358078603,1.0,5.0,63,Cloud Security and Privacy,65,Azure Data Factory Cookbook,2022-09-16,2023-11-27,Red
+3101,247,3.051012145748988,1.0,5.0,164,Building real-time applications with AWS AppSync,47,Cloud Computing for Business,2021-01-29,2021-05-15,Red
+3102,173,3.092485549132948,1.0,5.0,155,Big Data Processing with Google Cloud Platform,180,Cloud Computing and the Financial Services Industry,2022-12-09,2023-12-09,Red
+3103,247,2.900404858299595,1.0,5.0,249,Getting Started with Google Cloud Platform,203,Cloud Governance: Best Practices for Managing Your Cloud Environment,2023-11-05,2023-12-23,Blue
+3104,334,2.9257485029940122,1.0,5.0,203,Cloud Governance: Best Practices for Managing Your Cloud Environment,135,Azure Kubernetes Service for Container Orchestration,2020-12-29,2022-05-11,Red
+3105,192,2.9671875,1.0,5.0,66,Docker on AWS,183,Cloud Computing and the Internet of Things (IoT),2022-04-21,2022-11-09,Red
+3106,233,2.9519313304721027,1.0,5.0,240,Deploying Windows Virtual Desktop on Azure,142,Azure SQL Database,2022-05-14,2022-09-30,Red
+3107,216,2.975462962962963,1.0,5.0,21,Cloud-Native Machine Learning,214,Cloud security risks and how to mitigate them,2022-04-15,2023-05-04,Red
+3108,149,3.145637583892617,1.0,5.0,185,Cloud Computing for E-commerce: Optimizing Your Online Business,224,Cloud-Based Disaster Recovery: Ensuring Business Continuity,2020-11-21,2020-12-29,Red
+3109,205,3.0185365853658532,1.0,5.0,50,Cloud-Based Virtualization: A Comprehensive Guide,197,Cloud Computing in Agriculture: Farming in the Cloud,2023-10-23,2023-10-24,Red
+3110,250,2.9556,1.0,5.0,244,Exploring serverless computing in the cloud,199,Cloud Computing in Healthcare: Benefits and Challenges,2021-10-14,2022-09-25,Red
+3111,316,2.9721518987341775,1.0,5.0,8,Cloud Computing for Data Science,216,Cloud Storage vs. On-Premises Storage: Which is Right for You?,2023-05-20,2023-06-05,Red
+3112,216,2.718981481481481,1.0,5.0,181,Cloud Computing and the Future of Artificial Intelligence,77,GCP for Business Leaders,2022-10-18,2023-02-05,Red
+3113,245,3.0318367346938775,1.0,4.9,170,Cloud Automation: Streamlining Your Business Processes,160,Building and Managing Virtual Networks on Azure,2021-03-10,2021-10-23,Red
+3114,329,3.0832826747720365,1.0,5.0,82,AWS Certified Cloud Practitioner Exam Prep,32,Serverless Computing in AWS,2023-04-03,2023-06-10,Red
+3115,258,2.804263565891473,1.0,5.0,268,Hybrid Cloud: Benefits and Challenges,71,Microsoft Azure Infrastructure Services for Architects,2021-08-01,2021-11-25,Red
+3116,235,2.911489361702128,1.0,5.0,201,Cloud Computing vs. On-Premises: Which One Is Right for Your Business?,213,Cloud Security Best Practices for Your Business,2023-07-10,2023-07-12,Red
+3117,183,3.000546448087432,1.0,5.0,256,Harnessing the power of cloud-native databases,123,Azure Data Factory for Data Integration and ETL,2022-04-28,2022-07-08,Red
+3118,191,2.9748691099476443,1.0,5.0,35,Designing Cloud-Native Applications,21,Cloud-Native Machine Learning,2023-07-11,2023-10-26,Red
+3119,269,3.029739776951673,1.0,5.0,145,Azure Stream Analytics,86,Azure Machine Learning Studio Cookbook,2022-10-08,2023-12-19,Blue
+3120,205,3.072195121951219,1.0,5.0,251,Google Cloud Platform for DevOps,179,Cloud Computing and Healthcare: Opportunities and Challenges,2022-11-24,2023-12-27,Red
+3121,187,3.143850267379679,1.0,5.0,138,Azure Security Best Practices,64,AWS Certified Developer Associate Exam Prep,2022-01-01,2022-10-26,Red
+3122,304,3.0901315789473682,1.0,5.0,164,Building real-time applications with AWS AppSync,185,Cloud Computing for E-commerce: Optimizing Your Online Business,2023-10-27,2023-11-07,Red
+3123,261,2.964367816091954,1.0,5.0,208,"Cloud Mobility: Enabling Productivity Anywhere, Anytime",130,Azure Firewall for Network Security,2022-07-29,2023-06-26,Red
+3124,232,3.0008620689655174,1.0,5.0,79,Azure DevOps for Web Developers,228,Cloud-based mobile app development,2021-09-10,2022-10-28,Red
+3125,290,2.91,1.0,5.0,291,Securing your AWS infrastructure with IAM,174,Cloud Computing 101: An Introduction,2022-06-04,2023-12-24,Blue
+3126,299,2.9816053511705687,1.0,5.0,144,Azure Storage,92,GCP for Data Analysts,2020-01-29,2020-05-01,Red
+3127,227,2.8026431718061677,1.0,5.0,72,Big Data Analytics with Azure,220,Cloud-based customer relationship management,2021-03-16,2023-05-23,Red
+3128,254,3.020472440944882,1.0,5.0,33,Cloud Computing for Enterprises: A Practical Guide,181,Cloud Computing and the Future of Artificial Intelligence,2022-08-21,2023-01-11,Red
+3129,148,3.15945945945946,1.1,4.9,172,Cloud Backup and Disaster Recovery: Planning for the Unexpected,160,Building and Managing Virtual Networks on Azure,2021-02-27,2021-11-04,Red
+3130,266,2.956766917293233,1.0,5.0,273,Introduction to Azure Logic Apps,114,Azure Active Directory for Identity and Access Management,2022-06-21,2023-06-25,Red
+3131,262,3.015648854961832,1.0,5.0,223,Cloud-based disaster recovery strategies for small businesses,293,Serverless Computing: Building Apps Without Servers,2021-09-18,2022-04-11,Red
+3132,234,2.952136752136752,1.0,5.0,131,Azure Front Door for Web Applications,269,Hybrid Cloud: Integrating Public and Private Cloud Environments,2020-07-16,2022-11-04,Red
+3133,176,2.965340909090909,1.0,4.9,49,Cloud-Native Python,258,How to Deploy Applications on Google Cloud Platform,2021-03-11,2022-08-23,Red
+3134,215,3.102790697674419,1.0,5.0,195,Cloud Computing for Small Businesses: Benefits and Challenges,89,AWS Certified Solutions Architect Professional Exam Prep,2022-04-12,2023-01-03,Red
+3135,192,3.0281249999999997,1.0,5.0,195,Cloud Computing for Small Businesses: Benefits and Challenges,154,Best practices for securing your cloud environment,2022-05-12,2023-04-09,Red
+3136,212,3.0174528301886796,1.0,4.9,121,Azure Cosmos DB for Globally Distributed Applications,264,Implementing Disaster Recovery for Azure IaaS VMs,2022-04-18,2022-10-13,Red
+3137,241,2.8821576763485477,1.0,5.0,13,Cloud Application Development: A Practical Guide,77,GCP for Business Leaders,2022-08-11,2023-08-04,Red
+3138,180,2.941111111111111,1.0,5.0,205,Cloud Migration Strategies for Enterprises,196,Cloud Computing for Startups: How to Get the Most Out of it,2022-08-10,2023-03-08,Red
+3139,247,3.052226720647773,1.0,5.0,262,Implementing Azure Networking Solutions,205,Cloud Migration Strategies for Enterprises,2021-09-21,2022-07-18,Red
+3140,148,3.055405405405405,1.0,4.9,103,An Overview of Google Cloud CDN,219,Cloud-Based CRM: Enhancing Customer Engagement and Relationships,2023-08-01,2023-12-05,Red
+3141,227,2.9374449339207045,1.0,5.0,236,Deep dive into Amazon S3: Simple Storage Service,18,Cloud Data Warehousing: A Guide to Modern Data Analytics,2021-06-20,2023-10-22,Red
+3142,273,3.027106227106227,1.0,5.0,48,Building Microservices with ASP.NET Core and Kubernetes,162,Building data pipelines with AWS Glue and Amazon Athena,2021-09-28,2021-11-05,Red
+3143,257,3.049027237354086,1.0,5.0,125,Azure DevOps for CI/CD,147,Azure Traffic Manager,2023-07-26,2023-08-31,Red
+3144,182,2.9653846153846155,1.0,5.0,232,"Comparing public, private, and hybrid cloud models",51,Building Microservices on AWS,2023-03-23,2023-06-29,Red
+3145,229,3.1235807860262006,1.1,5.0,105,An Overview of Google Cloud Platform's Security,219,Cloud-Based CRM: Enhancing Customer Engagement and Relationships,2022-10-24,2023-10-12,Red
+3146,206,2.9854368932038833,1.0,5.0,241,Developing and Deploying Applications on Azure,173,Cloud Compliance: Navigating Regulatory Requirements in the Cloud,2020-05-26,2023-12-11,Red
+3147,206,3.045631067961165,1.0,5.0,198,Cloud Computing in Education: Benefits and Use Cases,160,Building and Managing Virtual Networks on Azure,2023-09-04,2023-12-27,Red
+3148,234,2.911965811965812,1.0,5.0,290,Scaling Applications on Google Cloud Platform,259,How to Migrate to Google Cloud Platform,2022-11-08,2023-11-21,Red
+3149,223,2.9376681614349778,1.0,5.0,271,Introduction to Amazon ECS: Elastic Container Service,225,Cloud-Based ERP: Benefits and Considerations for Your Business,2023-12-29,2023-12-29,Blue
+3150,160,3.0225,1.1,5.0,32,Serverless Computing in AWS,101,An Introduction to Google Cloud SQL,2020-08-06,2023-12-21,Red
+3151,209,2.9535885167464113,1.0,4.9,280,Introduction to Microsoft Azure,270,Implementing a Hybrid Cloud Strategy: Benefits and Challenges,2023-06-21,2023-08-08,Red
+3152,198,3.0318181818181817,1.0,5.0,261,Implementing Machine Learning with Google Cloud Platform,46,Cloud Computing and Big Data: Technologies and Applications,2020-08-25,2021-01-01,Red
+3153,243,3.0358024691358025,1.0,5.0,179,Cloud Computing and Healthcare: Opportunities and Challenges,76,Azure Data Engineering Cookbook,2022-06-17,2023-12-03,Blue
+3154,171,2.8216374269005846,1.0,4.9,88,Mastering Google Cloud Platform,281,Leveraging cloud technology for agile software development,2020-06-29,2021-04-24,Red
+3155,225,3.018222222222222,1.0,5.0,293,Serverless Computing: Building Apps Without Servers,84,GCP for DevOps,2023-05-23,2023-10-23,Red
+3156,200,2.83,1.0,5.0,267,How to Use Google Cloud Vision API for Image Analysis,240,Deploying Windows Virtual Desktop on Azure,2023-03-24,2023-04-10,Red
+3157,201,2.934328358208955,1.0,5.0,281,Leveraging cloud technology for agile software development,134,Azure IoT Hub for IoT Solutions,2022-04-10,2023-07-14,Red
+3158,241,2.987966804979253,1.0,5.0,221,Cloud-based data analytics for business intelligence,190,Cloud Computing for Legal Firms: Streamlining Legal Processes,2021-08-17,2023-09-19,Red
+3159,170,3.1082352941176468,1.0,4.9,121,Azure Cosmos DB for Globally Distributed Applications,154,Best practices for securing your cloud environment,2020-04-10,2021-04-16,Red
+3160,242,3.0140495867768595,1.0,5.0,157,Building a cloud-native data warehouse,138,Azure Security Best Practices,2022-10-15,2023-03-31,Red
+3161,243,2.9403292181069958,1.0,5.0,102,An overview of AWS SageMaker: Machine learning made easy,170,Cloud Automation: Streamlining Your Business Processes,2021-10-24,2022-08-18,Red
+3162,252,3.108333333333333,1.0,5.0,61,Hands-On Kubernetes on Azure,106,An Overview of Google Cloud Spanner,2022-11-20,2023-09-20,Red
+3163,200,3.1275,1.0,5.0,276,Introduction to Google Cloud AI Platform,185,Cloud Computing for E-commerce: Optimizing Your Online Business,2023-06-18,2023-08-04,Red
+3164,198,3.143939393939394,1.0,5.0,51,Building Microservices on AWS,224,Cloud-Based Disaster Recovery: Ensuring Business Continuity,2023-11-25,2023-12-01,Red
+3165,218,3.0055045871559636,1.0,5.0,9,The Essential Guide to Cloud Computing,243,Exploring Cloud Computing Services: A Comprehensive Guide,2023-06-03,2023-09-06,Red
+3166,222,2.947747747747748,1.0,5.0,190,Cloud Computing for Legal Firms: Streamlining Legal Processes,9,The Essential Guide to Cloud Computing,2020-01-18,2021-04-01,Red
+3167,189,3.0259259259259257,1.0,5.0,36,Cloud Computing and Big Data: Technologies and Applications,48,Building Microservices with ASP.NET Core and Kubernetes,2021-06-09,2023-08-02,Red
+3168,225,3.0546666666666664,1.0,5.0,80,Cloud Computing and Security,159,Building an effective disaster recovery plan for the cloud,2022-12-01,2023-03-05,Red
+3169,163,2.9834355828220858,1.0,5.0,13,Cloud Application Development: A Practical Guide,152,Best Practices for Azure Security,2020-09-07,2022-05-08,Red
+3170,217,2.952073732718894,1.1,5.0,43,Cloud Computing for Enterprises: A Practical Guide,100,Azure for Architects,2022-01-30,2023-11-20,Red
+3171,227,2.940088105726872,1.0,5.0,206,Cloud Migration Strategies for Your Enterprise,195,Cloud Computing for Small Businesses: Benefits and Challenges,2020-03-20,2022-08-12,Red
+3172,250,2.9972,1.0,5.0,150,Azure SQL Database for Data Management,50,Cloud-Based Virtualization: A Comprehensive Guide,2020-10-18,2023-07-28,Red
+3173,164,3.0146341463414634,1.0,5.0,220,Cloud-based customer relationship management,220,Cloud-based customer relationship management,2020-01-28,2023-10-06,Red
+3174,186,3.113440860215054,1.0,5.0,277,Introduction to Google Cloud Dataflow,89,AWS Certified Solutions Architect Professional Exam Prep,2023-03-04,2023-10-16,Red
+3175,210,2.917619047619048,1.0,5.0,97,Azure DevOps for Architects,107,AWS CloudTrail: Tracking user activity and API usage,2020-11-22,2023-01-24,Red
+3176,240,2.9479166666666665,1.0,5.0,1,Cloud Computing: A Beginner's Guide,203,Cloud Governance: Best Practices for Managing Your Cloud Environment,2021-05-19,2023-11-30,Red
+3177,259,3.0633204633204634,1.0,5.0,137,Azure Monitor for Cloud Monitoring,173,Cloud Compliance: Navigating Regulatory Requirements in the Cloud,2023-09-16,2023-12-30,Blue
+3178,173,3.028323699421965,1.0,5.0,61,Hands-On Kubernetes on Azure,221,Cloud-based data analytics for business intelligence,2022-10-25,2023-05-08,Red
+3179,184,2.9092391304347824,1.0,5.0,61,Hands-On Kubernetes on Azure,223,Cloud-based disaster recovery strategies for small businesses,2020-02-16,2020-05-26,Red
+3180,160,2.9074999999999998,1.0,5.0,227,Cloud-based machine learning for predictive analytics,287,Multi-Cloud Management: Strategies and Tools for Success,2020-08-28,2021-08-20,Red
+3181,257,2.8735408560311284,1.0,5.0,6,Hybrid Cloud for Dummies,198,Cloud Computing in Education: Benefits and Use Cases,2022-06-26,2022-09-18,Red
+3182,242,3.0772727272727276,1.0,5.0,300,The Impact of Cloud Computing on Business Intelligence,7,Cloud-Based Applications: A Step-by-Step Guide,2022-04-22,2023-01-05,Red
+3183,107,2.9869158878504676,1.0,5.0,220,Cloud-based customer relationship management,62,GCP for Beginners,2020-12-13,2021-05-08,Red
+3184,155,2.8967741935483873,1.0,4.9,221,Cloud-based data analytics for business intelligence,62,GCP for Beginners,2023-09-25,2023-11-22,Red
+3185,270,3.1133333333333333,1.0,5.0,132,Azure Functions for Serverless Computing,293,Serverless Computing: Building Apps Without Servers,2022-06-15,2023-01-17,Red
+3186,259,3.140926640926641,1.0,5.0,193,Cloud Computing for Nonprofits: Making a Difference in the Cloud,27,Cloud Service Providers: An Overview,2022-02-21,2023-10-21,Red
+3187,217,2.995852534562212,1.0,5.0,138,Azure Security Best Practices,1,Cloud Computing: A Beginner's Guide,2022-05-11,2023-12-11,Blue
+3188,213,2.9591549295774646,1.0,5.0,173,Cloud Compliance: Navigating Regulatory Requirements in the Cloud,9,The Essential Guide to Cloud Computing,2022-12-01,2023-07-05,Red
+3189,251,2.983665338645418,1.1,5.0,210,Cloud Native Security: Best Practices for Protecting Your Applications,291,Securing your AWS infrastructure with IAM,2021-03-31,2022-01-01,Red
+3190,216,2.9819444444444447,1.0,5.0,274,Introduction to Azure Resource Manager,78,AWS Networking Cookbook,2021-08-04,2023-01-06,Red
+3191,208,2.946153846153846,1.0,5.0,26,Cloud-Native Transformation: Practical Patterns for Innovation,88,Mastering Google Cloud Platform,2020-11-02,2023-09-02,Red
+3192,216,2.9106481481481485,1.0,5.0,58,Google Cloud Platform for Developers,72,Big Data Analytics with Azure,2020-09-28,2022-01-25,Red
+3193,129,3.029457364341085,1.0,5.0,189,Cloud Computing for Government: Improving Citizen Services,8,Cloud Computing for Data Science,2023-10-10,2023-11-24,Red
+3194,213,2.9694835680751175,1.0,5.0,207,Cloud Migration Strategies: Planning and Execution,289,Running Microservices on Google Cloud Platform,2022-12-15,2023-03-29,Red
+3195,131,3.0106870229007634,1.1,5.0,168,Cloud AI: Harnessing the Power of Artificial Intelligence in the Cloud,297,The future of cloud computing: Emerging trends and technologies,2021-12-17,2022-11-20,Red
+3196,279,2.945878136200717,1.0,5.0,235,Data Analytics with Azure,117,Azure Backup for Cloud Data Protection,2020-11-28,2022-02-24,Red
+3197,122,2.783606557377049,1.0,4.9,217,Cloud Storage: Solutions for Data Backup and Recovery,237,Deploying Applications on Azure,2021-01-06,2021-10-03,Red
+3198,261,3.012643678160919,1.0,5.0,189,Cloud Computing for Government: Improving Citizen Services,121,Azure Cosmos DB for Globally Distributed Applications,2020-03-25,2022-02-19,Red
+3199,326,3.037116564417178,1.0,5.0,141,Azure Site Recovery,265,Implementing Disaster Recovery on Azure,2021-09-26,2022-06-09,Red
+3200,214,3.1238317757009346,1.0,5.0,5,Building Cloud-native Applications with Kubernetes,279,Introduction to Google Cloud Storage,2021-03-31,2022-04-10,Red
+3201,186,2.8935483870967746,1.0,4.9,234,Creating Virtual Machines in Azure,197,Cloud Computing in Agriculture: Farming in the Cloud,2022-10-13,2023-06-03,Red
+3202,202,3.155445544554455,1.0,5.0,46,Cloud Computing and Big Data: Technologies and Applications,240,Deploying Windows Virtual Desktop on Azure,2021-07-05,2023-05-18,Red
+3203,204,2.9578431372549017,1.0,5.0,32,Serverless Computing in AWS,38,Building Microservices with ASP.NET Core and Kubernetes,2020-09-19,2021-10-23,Red
+3204,219,3.13607305936073,1.0,5.0,152,Best Practices for Azure Security,231,Cloud-Native DevOps: Accelerating Your Application Development,2020-02-06,2023-09-14,Red
+3205,174,2.910344827586207,1.0,5.0,269,Hybrid Cloud: Integrating Public and Private Cloud Environments,145,Azure Stream Analytics,2020-04-08,2023-06-26,Red
+3206,299,3.0622073578595317,1.1,5.0,217,Cloud Storage: Solutions for Data Backup and Recovery,240,Deploying Windows Virtual Desktop on Azure,2022-09-18,2022-10-11,Red
+3207,180,2.9955555555555557,1.1,5.0,11,Cloud Foundry: The Definitive Guide,198,Cloud Computing in Education: Benefits and Use Cases,2021-10-24,2022-05-14,Red
+3208,192,3.0151041666666667,1.0,4.9,254,Google Cloud Platform for Healthcare,30,Learning Cloud-Native Java,2022-02-22,2022-12-21,Red
+3209,287,2.9501742160278748,1.0,5.0,150,Azure SQL Database for Data Management,41,Migrating to the Cloud: A Guide for Business Leaders,2023-08-02,2023-08-17,Red
+3210,207,2.9130434782608696,1.0,5.0,219,Cloud-Based CRM: Enhancing Customer Engagement and Relationships,175,Cloud Computing and Big Data: A Perfect Match?,2023-12-16,2023-12-21,Red
+3211,207,3.0130434782608697,1.0,5.0,239,Deploying microservices with AWS Fargate,200,Cloud Computing in Healthcare: Opportunities and Challenges,2020-11-12,2023-03-08,Red
+3212,194,2.9701030927835053,1.0,5.0,226,Cloud-Based HR: Modernizing Your Human Resource Management,27,Cloud Service Providers: An Overview,2022-08-26,2023-07-26,Red
+3213,247,2.993927125506073,1.0,5.0,274,Introduction to Azure Resource Manager,66,Docker on AWS,2021-01-19,2022-11-19,Red
+3214,201,3.1661691542288555,1.0,5.0,6,Hybrid Cloud for Dummies,55,Securing Cloud Native Applications,2020-01-31,2022-11-12,Red
+3215,294,3.002721088435374,1.0,5.0,114,Azure Active Directory for Identity and Access Management,147,Azure Traffic Manager,2023-01-12,2023-03-25,Red
+3216,105,3.0714285714285716,1.0,4.9,136,Azure Machine Learning for Predictive Analytics,68,Mastering Azure Analytics,2021-04-12,2022-03-17,Red
+3217,224,3.0973214285714286,1.0,5.0,297,The future of cloud computing: Emerging trends and technologies,201,Cloud Computing vs. On-Premises: Which One Is Right for Your Business?,2021-07-13,2023-03-14,Red
+3218,179,3.045251396648045,1.0,5.0,151,Azure Virtual WAN for Secure and Optimized Connectivity,35,Designing Cloud-Native Applications,2022-05-08,2023-10-19,Red
+3219,237,2.919831223628692,1.0,5.0,245,Getting started with AWS Glue: ETL made easy,87,Deploying Applications with Docker and AWS,2023-04-28,2023-09-09,Red
+3220,183,3.1207650273224044,1.0,5.0,188,Cloud Computing for Gaming: Enhancing the Gaming Experience,120,Azure Container Instances for Container Deployment,2022-07-07,2022-12-07,Red
+3221,207,3.078260869565218,1.0,5.0,61,Hands-On Kubernetes on Azure,263,Implementing Azure Databricks for Big Data Processing,2023-06-28,2023-07-03,Red
+3222,264,2.9738636363636366,1.0,5.0,99,GCP for Data Engineers,291,Securing your AWS infrastructure with IAM,2021-02-03,2023-02-26,Red
+3223,259,2.943243243243243,1.0,5.0,201,Cloud Computing vs. On-Premises: Which One Is Right for Your Business?,192,Cloud Computing for Non-Profits: Challenges and Opportunities,2023-03-11,2023-03-13,Red
+3224,158,3.1854430379746836,1.0,5.0,104,An Overview of Google Cloud Functions,99,GCP for Data Engineers,2020-09-28,2021-12-15,Red
+3225,272,2.9963235294117645,1.0,5.0,113,Azure Active Directory,129,Azure ExpressRoute for Dedicated Network Connection,2023-10-23,2023-11-28,Red
+3226,186,2.975268817204301,1.0,5.0,127,Azure DevOps for Continuous Integration and Deployment,263,Implementing Azure Databricks for Big Data Processing,2022-09-30,2023-11-25,Red
+3227,219,3.0383561643835617,1.0,5.0,83,Building Applications on Azure,107,AWS CloudTrail: Tracking user activity and API usage,2020-11-10,2021-02-21,Red
+3228,242,2.899173553719008,1.0,5.0,286,Multi-Cloud Environments: Maximizing Benefits and Overcoming Challenges,88,Mastering Google Cloud Platform,2023-10-15,2023-11-15,Red
+3229,171,2.909356725146199,1.0,5.0,7,Cloud-Based Applications: A Step-by-Step Guide,147,Azure Traffic Manager,2022-12-03,2022-12-12,Red
+3230,180,3.0822222222222218,1.0,5.0,134,Azure IoT Hub for IoT Solutions,231,Cloud-Native DevOps: Accelerating Your Application Development,2021-01-05,2022-01-13,Red
+3231,198,3.025252525252525,1.0,5.0,152,Best Practices for Azure Security,104,An Overview of Google Cloud Functions,2020-11-07,2022-10-23,Red
+3232,213,3.036619718309859,1.1,5.0,73,Google Cloud Platform Cookbook,255,Google Cloud Platform Networking Basics,2022-01-26,2022-08-10,Red
+3233,265,3.1166037735849055,1.0,5.0,183,Cloud Computing and the Internet of Things (IoT),265,Implementing Disaster Recovery on Azure,2020-02-07,2020-12-01,Red
+3234,201,2.9606965174129356,1.0,4.9,4,Cloud Security: A Comprehensive Guide,198,Cloud Computing in Education: Benefits and Use Cases,2020-10-29,2021-03-12,Red
+3235,144,3.1020833333333333,1.0,5.0,3,Cloud Native Applications,160,Building and Managing Virtual Networks on Azure,2021-09-12,2023-01-09,Red
+3236,265,3.141509433962264,1.1,5.0,61,Hands-On Kubernetes on Azure,4,Cloud Security: A Comprehensive Guide,2021-06-30,2023-03-27,Red
+3237,205,2.971707317073171,1.0,4.9,42,Serverless Computing in AWS,112,AWS Lambda vs EC2: Choosing the right compute service,2021-11-07,2023-04-18,Red
+3238,191,2.931937172774869,1.0,5.0,298,The Future of Cloud Computing: Emerging Trends to Watch,219,Cloud-Based CRM: Enhancing Customer Engagement and Relationships,2021-02-09,2023-11-07,Red
+3239,218,2.886697247706422,1.0,5.0,191,Cloud Computing for Marketing: Personalizing the Customer Experience,81,Google Cloud Platform for Architects,2022-05-06,2022-05-08,Red
+3240,189,3.0904761904761906,1.0,5.0,195,Cloud Computing for Small Businesses: Benefits and Challenges,228,Cloud-based mobile app development,2023-06-15,2023-10-21,Red
+3241,209,2.895215311004785,1.0,5.0,226,Cloud-Based HR: Modernizing Your Human Resource Management,294,Serverless Computing: What is it and How Does it Work?,2020-06-20,2022-08-03,Red
+3242,205,3.100487804878049,1.0,5.0,123,Azure Data Factory for Data Integration and ETL,257,How to choose the right cloud provider for your business,2022-01-25,2023-03-16,Red
+3243,267,3.048314606741573,1.0,5.0,50,Cloud-Based Virtualization: A Comprehensive Guide,245,Getting started with AWS Glue: ETL made easy,2020-07-11,2023-11-13,Red
+3244,173,3.0439306358381506,1.0,5.0,11,Cloud Foundry: The Definitive Guide,183,Cloud Computing and the Internet of Things (IoT),2022-11-12,2022-11-19,Red
+3245,261,3.0030651340996166,1.1,5.0,208,"Cloud Mobility: Enabling Productivity Anywhere, Anytime",46,Cloud Computing and Big Data: Technologies and Applications,2021-08-01,2023-04-07,Red
+3246,256,2.845703125,1.0,5.0,151,Azure Virtual WAN for Secure and Optimized Connectivity,223,Cloud-based disaster recovery strategies for small businesses,2022-04-05,2023-09-03,Red
+3247,157,2.972611464968153,1.0,5.0,16,Cloud Computing: From Beginning to End,17,Cloud Native Java,2020-09-24,2022-05-25,Red
+3248,135,2.9540740740740743,1.1,4.9,242,Developing Serverless Applications on Google Cloud Platform,170,Cloud Automation: Streamlining Your Business Processes,2020-07-30,2021-09-20,Red
+3249,219,2.9059360730593604,1.0,5.0,266,How to Use Google Cloud Identity and Access Management,275,Introduction to Azure Stream Analytics,2021-12-13,2023-07-27,Red
+3250,189,2.9645502645502644,1.0,5.0,247,Getting Started with Azure Cognitive Services,282,Migrating to AWS: Strategies and best practices,2021-06-03,2021-09-02,Red
+3251,225,3.1982222222222223,1.0,5.0,81,Google Cloud Platform for Architects,88,Mastering Google Cloud Platform,2023-10-05,2023-11-12,Red
+3252,212,3.0693396226415097,1.0,5.0,246,Getting started with AWS: A beginner's guide,277,Introduction to Google Cloud Dataflow,2023-01-22,2023-07-19,Red
+3253,218,2.9394495412844033,1.0,5.0,221,Cloud-based data analytics for business intelligence,72,Big Data Analytics with Azure,2022-12-29,2023-09-09,Red
+3254,217,2.9548387096774196,1.0,5.0,135,Azure Kubernetes Service for Container Orchestration,91,Cloud Computing and Virtualization,2023-08-12,2023-08-25,Red
+3255,291,3.0216494845360824,1.0,5.0,68,Mastering Azure Analytics,166,Building Serverless Applications on Azure,2020-05-01,2021-03-02,Red
+3256,276,2.9768115942028985,1.0,5.0,238,Deploying Highly Available Applications with Azure Kubernetes Service,7,Cloud-Based Applications: A Step-by-Step Guide,2022-03-17,2022-12-10,Red
+3257,191,2.8738219895287958,1.0,5.0,229,Cloud-Native Applications: What are They and Why Are They Important?,274,Introduction to Azure Resource Manager,2022-05-03,2023-05-16,Red
+3258,156,2.9583333333333335,1.0,5.0,118,Azure Batch for High-performance Computing,208,"Cloud Mobility: Enabling Productivity Anywhere, Anytime",2023-11-05,2023-12-24,Red
+3259,220,2.979090909090909,1.0,5.0,275,Introduction to Azure Stream Analytics,68,Mastering Azure Analytics,2021-03-02,2022-12-02,Red
+3260,213,2.9347417840375587,1.0,5.0,77,GCP for Business Leaders,65,Azure Data Factory Cookbook,2020-12-17,2021-05-14,Red
+3261,163,3.046625766871166,1.0,5.0,293,Serverless Computing: Building Apps Without Servers,34,Cloud-Native Continuous Integration and Delivery,2020-05-26,2023-12-05,Red
+3262,262,3.082824427480916,1.0,5.0,242,Developing Serverless Applications on Google Cloud Platform,222,Cloud-based Disaster Recovery Solutions for Businesses,2020-01-24,2023-06-29,Red
+3263,174,2.960344827586207,1.0,5.0,146,Azure Synapse Analytics,98,Cloud Computing and IoT,2023-09-19,2023-11-09,Red
+3264,196,2.9,1.0,5.0,202,Cloud Cost Optimization: Best Practices for Saving Money,22,Cloud Operations: A Practical Guide,2022-09-05,2023-11-23,Red
+3265,194,2.8938144329896907,1.0,4.9,137,Azure Monitor for Cloud Monitoring,30,Learning Cloud-Native Java,2023-02-20,2023-08-09,Red
+3266,145,3.026206896551724,1.0,5.0,66,Docker on AWS,250,Getting Started with Google Kubernetes Engine,2021-02-15,2023-10-11,Red
+3267,208,2.9610576923076923,1.0,5.0,85,AWS Certified Security Specialty Exam Prep,12,Kubernetes: A Comprehensive Guide,2022-05-06,2023-09-19,Red
+3268,227,2.9264317180616737,1.0,5.0,272,Introduction to AWS CloudFormation,253,Google Cloud Platform for Gaming,2020-04-03,2023-11-17,Red
+3269,164,2.9676829268292684,1.0,5.0,154,Best practices for securing your cloud environment,246,Getting started with AWS: A beginner's guide,2021-12-10,2023-10-31,Red
+3270,166,2.969277108433735,1.0,5.0,10,Cloud Computing: The Future of IT,58,Google Cloud Platform for Developers,2023-11-28,2023-11-29,Red
+3271,219,3.1776255707762555,1.1,5.0,108,AWS CloudWatch: Monitoring and logging for your applications,89,AWS Certified Solutions Architect Professional Exam Prep,2023-07-03,2023-08-04,Red
+3272,164,3.097560975609756,1.0,5.0,148,Azure Virtual Desktop,43,Cloud Computing for Enterprises: A Practical Guide,2021-05-08,2022-05-19,Red
+3273,218,2.9316513761467893,1.0,5.0,293,Serverless Computing: Building Apps Without Servers,69,Architecting for the Cloud: AWS Best Practices,2023-11-04,2023-12-28,Blue
+3274,126,2.987301587301587,1.0,5.0,240,Deploying Windows Virtual Desktop on Azure,254,Google Cloud Platform for Healthcare,2020-12-04,2021-11-05,Red
+3275,228,3.117982456140351,1.0,5.0,72,Big Data Analytics with Azure,252,Google Cloud Platform for E-commerce,2023-10-18,2023-10-29,Red
+3276,202,2.963861386138614,1.0,5.0,5,Building Cloud-native Applications with Kubernetes,269,Hybrid Cloud: Integrating Public and Private Cloud Environments,2023-10-06,2023-12-21,Red
+3277,210,2.997142857142857,1.0,5.0,158,Building a resilient cloud architecture,56,AWS Certified Advanced Networking Official Study Guide,2023-03-12,2023-07-21,Red
+3278,259,3.0463320463320462,1.0,5.0,42,Serverless Computing in AWS,57,Practical Cloud Security,2022-07-09,2023-11-11,Red
+3279,329,2.9501519756838905,1.0,5.0,148,Azure Virtual Desktop,2,Cloud Architecture Patterns,2023-06-30,2023-07-29,Red
+3280,276,2.9992753623188406,1.0,5.0,4,Cloud Security: A Comprehensive Guide,7,Cloud-Based Applications: A Step-by-Step Guide,2021-03-03,2023-01-15,Red
+3281,253,2.9648221343873518,1.0,5.0,227,Cloud-based machine learning for predictive analytics,165,Building scalable cloud applications with microservices,2023-05-24,2023-08-29,Red
+3282,198,3.1095959595959597,1.0,5.0,225,Cloud-Based ERP: Benefits and Considerations for Your Business,127,Azure DevOps for Continuous Integration and Deployment,2022-06-21,2022-08-02,Red
+3283,253,2.9454545454545458,1.0,5.0,89,AWS Certified Solutions Architect Professional Exam Prep,265,Implementing Disaster Recovery on Azure,2020-01-20,2022-10-19,Red
+3284,276,3.0532608695652175,1.0,5.0,130,Azure Firewall for Network Security,73,Google Cloud Platform Cookbook,2021-05-21,2022-01-12,Red
+3285,176,2.9482954545454545,1.0,5.0,84,GCP for DevOps,56,AWS Certified Advanced Networking Official Study Guide,2020-08-04,2020-09-22,Red
+3286,256,3.048828125,1.0,5.0,235,Data Analytics with Azure,37,Cloud Computing for Business,2023-12-04,2023-12-06,Blue
+3287,212,2.8613207547169814,1.0,5.0,42,Serverless Computing in AWS,140,Azure Service Bus for Reliable Messaging,2021-11-29,2022-01-14,Red
+3288,145,3.0455172413793106,1.0,5.0,3,Cloud Native Applications,256,Harnessing the power of cloud-native databases,2021-12-27,2023-10-24,Red
+3289,162,2.9055555555555554,1.0,5.0,101,An Introduction to Google Cloud SQL,148,Azure Virtual Desktop,2022-07-22,2023-08-16,Red
+3290,241,2.9311203319502073,1.0,5.0,262,Implementing Azure Networking Solutions,107,AWS CloudTrail: Tracking user activity and API usage,2021-06-22,2023-09-28,Red
+3291,185,3.018378378378378,1.0,5.0,135,Azure Kubernetes Service for Container Orchestration,117,Azure Backup for Cloud Data Protection,2020-07-18,2022-11-13,Red
+3292,225,3.019111111111111,1.0,4.9,32,Serverless Computing in AWS,82,AWS Certified Cloud Practitioner Exam Prep,2023-04-15,2023-08-30,Red
+3293,156,2.896153846153846,1.0,5.0,52,Azure Machine Learning Cookbook,188,Cloud Computing for Gaming: Enhancing the Gaming Experience,2020-10-04,2021-09-29,Red
+3294,186,2.931720430107527,1.0,5.0,45,Designing Cloud-Native Applications,194,Cloud Computing for Small Businesses: Advantages and Best Practices,2022-01-16,2023-12-29,Red
+3295,199,2.9025125628140707,1.1,5.0,153,Best Practices for Data Management on Google Cloud Platform,59,DevOps with Azure,2020-11-23,2022-01-07,Red
+3296,178,2.9949438202247194,1.0,4.9,135,Azure Kubernetes Service for Container Orchestration,149,Azure SQL Database for Cloud-Based Database Management,2020-05-22,2022-02-01,Red
+3297,303,2.965676567656766,1.0,5.0,116,Azure Arc for Hybrid and Multi-Cloud Management,224,Cloud-Based Disaster Recovery: Ensuring Business Continuity,2023-06-12,2023-08-27,Red
+3298,246,3.069105691056911,1.0,5.0,221,Cloud-based data analytics for business intelligence,245,Getting started with AWS Glue: ETL made easy,2023-11-21,2023-12-30,Blue
+3299,244,3.0500000000000003,1.0,5.0,18,Cloud Data Warehousing: A Guide to Modern Data Analytics,89,AWS Certified Solutions Architect Professional Exam Prep,2023-11-03,2023-11-13,Red
+3300,181,2.9972375690607733,1.0,4.9,171,Cloud Automation: Streamlining Your IT Operations,160,Building and Managing Virtual Networks on Azure,2023-08-16,2023-09-30,Red
