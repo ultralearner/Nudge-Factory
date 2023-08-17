@@ -1,16 +1,19 @@
-# Filename: Home.py
-# Author: Ganesh Subramanian
-# Date Created: 2023-08-12
-# License: MIT
-# Description: Home page for the NudgeX platform, displaying welcome message, about section, and application logos.
-
+import os
 import streamlit as st
 
-# Path to images directory
-image_path = "pics/"
+# Function to display images if they exist
+
+
+def display_image(image_name):
+    image_path = os.path.join("pics", image_name)
+    if os.path.exists(image_path):
+        st.image(image_path)
+    else:
+        st.warning(f"Image {image_name} not found!")
+
 
 # Display the banner
-st.image(image_path + "nudgex-banner.png")
+display_image("nudgex-banner.png")
 
 # Display the welcome message
 st.write("""
@@ -25,4 +28,4 @@ NudgeX leverages behavioral science and machine learning to encourage users to i
 """)
 
 # Display the apps logos
-st.image(image_path + "apps-logos.png")
+display_image("apps-logos.png")
